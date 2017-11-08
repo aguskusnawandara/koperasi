@@ -1,0 +1,3 @@
+$('#simpan').click(function(){
+		simpanHeader();
+	});

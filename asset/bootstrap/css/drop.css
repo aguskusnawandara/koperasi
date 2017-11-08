@@ -1,0 +1,8 @@
+ul.nav li.dropdown:hover ul.dropdown-menu{
+display: block;
+}
+
+/* Jika anda ingin menghilangkan tanda panah (arrow) */
+a.menu:after, .dropdown-toggle:after {
+content: none;
+}
